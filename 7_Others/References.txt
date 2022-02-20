@@ -1,0 +1,9 @@
+References :
+for project i refered from  google :
+https://github.com/SahMohan01/Mini-Project-In-C/blob/main/Quiz-In-C/CQUIZ.c
+
+
+for Use case diagrams and flow chart :
+https://www.google.com/search?q=use+case+diagram+for+quiz+system&rlz=1C1CHBF_enIN831IN831&sxsrf=APq-WBsjLF3Xi4tvkA0_z6jfUupjiBAXOg:1645379952195&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjZvMj87Y72AhUpSmwGHWZdDp0Q_AUoAXoECAEQAw&biw=1536&bih=722&dpr=1.25
+
+
