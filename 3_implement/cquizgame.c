@@ -1,4 +1,4 @@
-//learnprogramo-programming made simple
+
 #include<stdio.h>
 #include<conio.h>
 #include<ctype.h>
